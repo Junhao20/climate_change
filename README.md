@@ -12,4 +12,10 @@
 - **NYC OPENDATA**: "This is the 500-Year Floodplain for the 2050s based on FEMA's Preliminary Work Map data and the New York Panel on Climate Change's 90th Percentile Projects for Sea-Level Rise (31 inches). Please see the Disclaimer PDF for more information. Data Provided by the Mayor's Office of Long-Term Planning and Sustainability (OLTPS) on behalf of CUNY Institute for Sustainable Cities (CISC) and the New York Panel on Climate Change (NPCC)." **Reference Website**: https://data.cityofnewyork.us/Environment/Sea-Level-Rise-NYC/7353-4pk9.
   - Refinement: The geographical data should be refined and cleaned for plotting and visualization.
 - **DATAHUB**: Global Average Absolute Sea Level Change, 1880-2014. **Reference Website**: https://datahub.io/core/sea-level-rise#data-previews.
-- **Shanghai Sea Level Data: Request in progress.**
+- **Shanghai Sea Level Data:**
+  - Earth.org. (n.d.). Sea level rise by the end of the century - Shanghai. Retrieved December 3, 2024, from https://earth.org/data_visualization/sea-level-rise-by-the-end-of-the-century-shanghai/
+  - Shanghai Astronomical Observatory. (n.d.). 上海地区海平面上升趋势的长期预测研究. Chinese Academy of Sciences. Retrieved from http://center.shao.ac.cn/twtnk/n17/96TK5.pdf
+  - Shanghai Marine Monitoring and Forecasting Center (2024.4). 海洋状况报道. Retrieved from https://swj.sh.gov.cn/shshyhjjcybzx-xwzx/20240506/0ec0ca6a9b7a4bc1aad9a8d4bc3146d8.html
+*For the Dataset of Shanghai, most of the data are properly kept by the Shanghai City Government. Consequently, their report will be my main source to predict and analyze the data.*
+
+
